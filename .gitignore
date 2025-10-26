@@ -110,3 +110,4 @@ profiler_logs/
 dataset/images/
 
 dataset/predicted_images_readable/
+uploads/
